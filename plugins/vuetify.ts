@@ -20,6 +20,8 @@ const customTheme = {
     cor_mini_menu: '#7B7163',
     cor_card_login: '#463F33',
     cor_marron_escuro: '#241D13',
+    cor_marron_claro: '#FFEACB',
+    
     
   },
 };
