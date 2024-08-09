@@ -14,7 +14,7 @@
                     ENTRAR
                 </v-btn>
                 <v-btn class="text-center text-h6 font-weight-light mt-10 bg-transparent elevation-0 justify-center ml-6"
-                href="/pages/index">
+                href="/cadastro">
                     Não possui cadastro ainda?  Cadastre-se
                 </v-btn>
               </v-card>

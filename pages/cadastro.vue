@@ -5,10 +5,10 @@
           <v-row no-gutters class="w-100 h-100">
             <v-col cols="6" class="d-flex align-center justify-center ">
               <v-card class="bg-cor_card_login  justify-center" height="100%" width="100%">
-                <v-btn class="bg-transparent elevation-0">
+                <v-btn class="bg-transparent elevation-0" href="/login">
                     Voltar
                 </v-btn>
-                <v-card-text class="text-center text-h5 font-weight-light mt-5">
+                <v-card-text class="text-center text-h5 font-weight-light mt-5" >
                     OLÁ, FAÇA SEU LOGIN!
                 </v-card-text>
                 <v-text-field label="Username" class="mx-5 rounded-lg" ></v-text-field>
